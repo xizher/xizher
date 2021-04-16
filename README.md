@@ -7,4 +7,7 @@
 - 💬 Ask me about GIS questions
 - 📫 How to reach me: xizher@163.com
 - 😄 Pronouns: xiao xi
+- 🛠 Projects
+  - 地图跳一跳 https://github.com/xizher/client-map-jump-by-cesium
+  - 毕业设计（Globeland30辅助地理课堂教学系统） https://github.com/xizher/webgis-glcedu
 - ⚡ Fun fact: 🏸 🏊‍ 🏓 🎾
